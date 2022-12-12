@@ -1,0 +1,64 @@
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 45px;
+    font-weight: 900;
+    line-height: 1.5;
+    color: white;
+}
+#title {
+    background-color: #ff4c68;
+
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+.title {
+    font-family: Ubuntu;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.subtitle {
+    margin-top: 50px;
+}
+
+.nav-item {
+    font-size: 20px;
+    margin-left: 18px;
+}
+
+.buttons {
+    margin-top: 5%;
+    margin-right: 3%;
+}
+
+.dog {
+    height: 60%;
+    width: 60%;
+    transform: rotate(20deg);
+    margin-left: 20%;
+}
+
+.cards {
+    padding: 7% 15%;
+    text-align: center;
+}
+
+h3 {
+    font-family: Montserrat;
+    font-weight: 900;
+}
+
+.icono {
+    color: #ef8172;
+    padding: 10%;
+    margin-left: auto;
+    
+}
+
+.description {
+    color: #8f8f8f;
+    font-family: Montserrat;
+}
