@@ -2,8 +2,12 @@
     background-color: #ff4c68;
 }
 
-.container-fluid {
+.nav-container {
     padding: 3% 15%;
+}
+
+.colapse {
+    padding-left: 60px;
 }
 
 .title {
@@ -13,10 +17,15 @@
     font-weight: 900;
     line-height: 1.5;
     color: white;
+    
+}
+
+.title-pad {
+    padding: 0 50ppx 50px 50px;
 }
 
 .subtitle {
-    margin-top: 50px;
+    height: 500px;
 }
 
 .nav-item {
@@ -29,11 +38,16 @@
     margin-right: 3%;
 }
 
-.dog {
-    height: 60%;
-    width: 60%;
+.row-title{
+    overflow: hidden;
+}
+.dog{
     transform: rotate(20deg);
+}
+.dog img{
     margin-left: 20%;
+    margin-top: 40px;
+    
 }
 
 .cards {
